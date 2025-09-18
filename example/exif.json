@@ -1,0 +1,51 @@
+{
+  "width": 1024,
+  "height": 768,
+
+  "dpc": {
+    "threshold": 30
+  },
+
+  "blc": {
+    "blc_r": 0,
+    "blc_gr": 0,
+    "blc_gb": 0,
+    "blc_b": 0,
+    "r_gain": 0,
+    "b_gain": 0
+  },
+
+  "lsc": {
+    "intensity": 0
+  },
+
+  "awb": {
+    "r_gain": 1.1,
+    "gr_gain": 1.0,
+    "gb_gain": 1.0,
+    "b_gain": 1.1
+  },
+
+  "ccm": {
+    "matrix": [
+      [1, 0, 0],
+      [0, 1, 0],
+      [0, 0, 1]
+    ]
+  },
+
+  "gamma": {
+    "factor": 1.0
+  },
+
+  "hsc": {
+    "hue": 0.1,
+    "saturation": 1.1
+  },
+
+  "bcc": {
+    "brightness": 0,
+    "contrast": 0.1
+  }
+
+}
